@@ -1,0 +1,21 @@
+EXPLORATORY DATA ANALYSIS REPORT
+================================
+Dataset: Diabetes Disease Progression Dataset
+Rows analyzed: 442
+Columns: 11
+
+Objective: Explore the dataset using statistical summaries, visualizations and correlation analysis.
+
+Data preparation: Checked duplicate rows and missing values; calculated descriptive statistics.
+
+Correlation findings:
+- Strongest absolute correlation with target: bmi (0.586)
+- Second strongest correlation with target: s5 (0.566)
+
+Key insights:
+- BMI shows a noticeable positive relationship with the target.
+- Other body-measurement features show different relationships with the target.
+- Target values vary across observations.
+- Correlation represents association, not causation.
+
+Conclusion: This project demonstrates how data cleaning, summary statistics, visualizations and correlation analysis can uncover patterns before predictive modeling.
